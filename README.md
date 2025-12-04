@@ -22,7 +22,7 @@ Atualmente cursando **Desenvolvimento de Software Multiplataforma (DSM)** — FA
 
 ---
 
-## 👋 About Me
+## 👋 Sobre mim
 
 Olá! Sou o Anderson, profissional de tecnologia com experiência em sistemas de informação, e apaixonado por **IA, inovação digital e desenvolvimento web**.
 
@@ -74,9 +74,10 @@ Atuação em:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=andersonlpin&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlpin&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andersonpinheiro&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andersonpinheiro&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
