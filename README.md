@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Anderson Luis Pinheiro
 
 <p align="center">
-  
+
   <!-- Tech Badges -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -17,14 +17,14 @@
 
 ---
 
-### 🎓 Profissional de Tecnologia • Bacharel em Sistemas de Informação • Especialista em Novas Tecnologias  
+### 🎓 Entusiasta e Estudante de Tecnologia • Bacharel em Sistemas de Informação • Especialista em Novas Tecnologias
 Atualmente cursando **Desenvolvimento de Software Multiplataforma (DSM)** — FATEC (previsão: 2028).
 
 ---
 
 ## 👋 Sobre mim
 
-Olá! Sou o Anderson, profissional de tecnologia com experiência em sistemas de informação, e apaixonado por **IA, inovação digital e desenvolvimento web**.
+Olá! Sou o Anderson, entusiasta e estudante de tecnologia com formação em sistemas de informação, apaixonado por **IA, inovação digital e desenvolvimento web**.
 
 Atuo também como cofundador da **ADEEP Code**, onde desenvolvo sites e soluções digitais para empresas e profissionais.
 
@@ -74,19 +74,26 @@ Atuação em:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andersonpinheiro&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andersonpinheiro&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=andersonlpin&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlpin&layout=compact&theme=tokyonight" />
 </p>
-
 
 ---
 
 ## 🌐 Contato
 
-📧 E-mail: **andersonlpin@gmail.com**  
-📱 Telefone: **(19) 99194-1073**  
-🔗 LinkedIn: **https://www.linkedin.com/in/andersonlpin**  
-📍 Porto Ferreira / SP  
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519991941073)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonlpin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonlpin@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andersonpinheiro)
+
+</div>
+
+---
+
+📍 **Porto Ferreira / SP**
 
 ---
 
